@@ -1,0 +1,22 @@
+# Data and archives
+Data/
+*.rar
+
+# Environment and secrets
+.env
+secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Operating System files
+.DS_Store
+Thumbs.db
